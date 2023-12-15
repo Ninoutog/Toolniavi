@@ -207,9 +207,9 @@ def method():
 
     clear() 
 
-    print('\033[1;97m[+] Total of accounts crack : \033[1;32m '+str(len(idx)))
+    print('\033[1;97m[🌊] Total of accounts crack : \033[1;32m '+str(len(idx)))
 
-    print(f'\x1b[1;97m[AVI] Do not use airplane mode')
+    print(f'\x1b[1;97m[🌊] Do not use airplane mode')
 
     lin3()
 
@@ -237,7 +237,7 @@ def method():
 
         pers = str(int(loop)/int(len(idx)) * 100)[:4]
 
-        sys.stdout.write(f'\r {R}[{W}HANNAN{R}] {P}({Y}{loop}{W} / {W}{len(idx)}{P}) {W}• {G}{len(oku)}\r')
+        sys.stdout.write(f'\r {R}[{W}AVI{R}] {P}({Y}{loop}{W} / {W}{len(idx)}{P}) {W}• {G}{len(oku)}\r')
 
         sys.stdout.flush()
 
