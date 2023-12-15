@@ -62,12 +62,8 @@ d8' `8b 88    88   `88'        88   88 88'     88    88
 88ooo88 Y8    8P    88         88ooo88 88ooooo Y8    8P 
 88~~~88 `8b  d8'    88         88~~~88 88~~~~~ `8b  d8' 
 88   88  `8bd8'    .88.        88   88 88.      `8bd8'  
-YP   YP    YP    Y888888P      YP   YP Y88888P    YP    
-                                                        
-                                                        
-
+YP   YP    YP    Y888888P      YP   YP Y88888P    YP                                                                                                    
 \u001b[0;1m
-
 Created by: Hev Avi Maganda 
 Version: 0.1 
 Status: Premium
